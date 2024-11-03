@@ -1,2 +1,6 @@
-# mediwheel
-YCPHacks2024
+# Medwheel
+ Imagine a world where medication management is seamless, stress-free, and tailored to each patient. Introducing MedWheel—an innovative, intelligent medication dispenser designed to transform how patients and doctors handle prescriptions. Our system integrates precision hardware and intuitive software to ensure patients never miss a dose. At the core is our motorized, Arduino-powered medicine wheel that dispenses the right medication at the right time.
+
+  MedWheel represents the perfect blend of hardware and software, designed to create a seamless medication-taking experience. The hardware, powered by Arduino and programmed in C++, includes motors, sensors, switches, and a buzzer, all working harmoniously to ensure accurate medication dispensing. Our system is integrated with a comprehensive software solution: a secure website for doctors to assign medication schedules and monitor patient progress, and a custom-built mobile app that keeps patients on track with notifications and manual dispensing options.
+Together, the software and hardware communicate in real-time, automatically recognizing when to dispense medication and responding to user requests. MedWheel simplifies medication management, making adherence effortless while prioritizing user safety and convenience.
+
